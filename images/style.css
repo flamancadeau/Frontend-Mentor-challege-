@@ -26,6 +26,8 @@ img {
     margin: 0 auto;
     border-radius: 1rem;
     padding-top: 10px;
+    height:288px; 
+    width:288px;
 }
 
 h1 {
